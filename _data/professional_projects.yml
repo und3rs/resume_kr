@@ -1,7 +1,7 @@
 # Projects
 
-- project: 제페토 Open API
-  corp: SNOW corp.
+- project: 제페토 오픈 API
+  corp: 스노우 주식회사
   duration: Mar, 2019 - Now
   # url: "#"
   description: 외부에서 제페토의 서비스를 이용할 수 있도록 제공하는 글로벌 API 입니다. 3D 인 아바타를 렌더링하여 이미지를 제공해주는 API 가 포함되어 있습니다. 이를 위해서 kubernetes 기반의 클러스터에 Headless GPU 서버들로 구성되어 있습니다.
@@ -10,7 +10,7 @@
   
   
 - project: 제페토 서비스
-  corp: SNOW corp.
+  corp: 스노우 주식회사
   duration: Jan, 2019 - Feb, 2019
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   youtube: https://www.youtube.com/embed/n0llsGlXT_U
@@ -20,7 +20,7 @@
 
 
 - project: 제페토 AI Brain
-  corp: SNOW corp.
+  corp: 스노우 주식회사
   duration: Dec, 2017 - Dec, 2018
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
@@ -30,7 +30,7 @@
 
   
 - project: 음성변조 엔진 개발 (Parfait)
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   duration: Oct, 2017 &mdash; Nov, 2017
   url: portfolio/2017/Parfait
   cover: portfolio/2017/Parfait/b612.jpg
@@ -40,7 +40,7 @@
 
 
 - project: PORTRA 카메라 앱
-  corp: SNOW corp.
+  corp: 스노우 주식회사
   duration: Feb, 2017 - Sep, 2017
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
   youtube: https://www.youtube.com/embed/tPCdqD4pWVw
@@ -51,7 +51,7 @@
 
   
 - project: 라인 프렌즈 스토어 리뉴얼
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   duration: Sep, 2016 &mdash; Jan, 2017
   url: https://store.linefriends.co.kr
   description: 라인 프렌즈 스토어는 라인의 굿즈를 판매하는 스토어 사이트입니다. 기존 스토어가 속도가 느리고 결제 오류가 많아 리뉴얼하게 되었습니다.
@@ -60,7 +60,7 @@
   
   
 - project: egg 카메라 앱
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   duration: Jan, 2016 &mdash; Aug, 2016
   url: https://linecorp.com/en/pr/news/en/2016/1363
   cover: portfolio/2016/egg/egg.jpg
@@ -70,7 +70,7 @@
   
   
 - project: 라인 크리에이터스
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   url: https://store.line.me
   duration: Oct, 2015 &mdash; Dec, 2015
   description: 라인 크리에이터스는 메신저 라인의 커스텀 스티커 제작 및 판매를 위한 포털 사이트입니다. 사용자는 이곳을 통해서 자신이 만든 스티커를 등록하고 판매할 수 있습니다.
@@ -79,7 +79,7 @@
   
   
 - project: 컬러링 북 앱
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook
   duration: Aug, 2015 &mdash; Sep, 2015
   description: 컬러링 북은 팀에서 소규모로 진행한 프로토타입 프로젝트였습니다.
@@ -88,7 +88,7 @@
   
 
 - project: 툰챗
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat
   duration: Mar, 2015 &mdash; Jly, 2015
   description: 진부한 말풍선 형태의 메신저가 아닌, 웹툰 형태의 메신저 앱 입니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
@@ -97,15 +97,15 @@
   
   
 - project: Shoot 44.3
-  corp: LINE+ corp.
+  corp: 라인플러스 주식회사
   duration: Nov, 2014 &mdash; Feb, 2015
   description: 세상에서 가장 단순한 메신저 앱으로서, 글 없이 제공되는 이미지 심볼만 보내고 받을 수 있습니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
   role: 안드로이드 앱을 담당하여 개발하였습니다.
   skills: Android
     
   
-- project: 이미지 리소스 Archiving 사이트
-  corp: LINE+ corp.
+- project: 이미지 리소스 아카이빙 사이트
+  corp: 라인플러스 주식회사
   duration: Aug, 2014 &mdash; Sep, 2014
   description: 디자인 팀에서 의뢰하여 진행한 사내용 프로젝트 입니다. 디자이너들은 작업한 리소스를 공용 스토리지에 무작위로 저장하고 있었습니다. 태그를 달고 검색이 가능하며, 전체 목록을 볼 수 있는 사이트가 필요하여 진행하였습니다. 리소스를 보고 검색할 수 있는 사이트와 파일 시스템을 감시하고 목록을 관리하는 시스템부로 이루어져 있습니다.
   role: 저는 psd 파서, 메타정보 추출기 등 개발에 필요한 라이브러리들을 주로 개발하였습니다.
@@ -199,7 +199,7 @@
 
   
 - project: SIMS (Samsung Injector Monitoring System)
-  corp: 삼성전자 생산기술 연구소 (Samsung Manufacturing Technology Center)
+  corp: 삼성전자 생산기술 연구소
   duration: Aug, 2009 &mdash; Dec, 2009
   description: SMIS는 사출기 모니터링 시스템으로서 DB 에서 각종 정보를 받아 표와 차트, 그래프로 보여주는 모니터링 툴입니다. 개발자 1명과 함께 진행한 프로젝트입니다.
   role: 저는 데이터를 각종 차트와 표로 보여주는 모듈을 개발하였습니다.
@@ -207,7 +207,7 @@
   
 
 - project: Ambient Wall
-  corp: 삼성전자 종합기술원 (Samsung Advanced Institute of Technology)
+  corp: 삼성전자 종합기술원
   duration: Apr, 2009 &mdash; Jun, 2009
   description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Ambient Wall 은 2009년 삼성 기술전 출품용 프로젝트입니다. 거실의 한쪽 벽면 전체가 스크린으로 되어있고 이것을 통해 화상통화나 날씨정보, 지도 등을 볼 수 있습니다. 그리고 모든 인터렉션은 모션인식을 통해서 이루어집니다.
   role: 저는 모션정보를 받아서 지도를 제어하고 보여주는 부분을 담당하였습니다.
@@ -215,7 +215,7 @@
   
     
 - project: Surface TableTop
-  corp: 삼성전자 종합기술원 (Samsung Advanced Institute of Technology)
+  corp: 삼성전자 종합기술원
   duration: Jun, 2008 &mdash; Sep, 2008
   url: portfolio/2008/TableTop
   video: portfolio/2008/TableTop/TableTop.mp4
