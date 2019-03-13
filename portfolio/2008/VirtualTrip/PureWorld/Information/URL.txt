@@ -1,0 +1,23 @@
+﻿ http://maps.google.com/cbk?output=xml&panoid=WQCBtsTvh3gxLu9bz8GoNQ&cb_client=maps_sv
+ 
+ 
+ 
+ 카피라이트
+ /maps/vp?spn=0.000902,0.001073&t=h&z=17&vp=32.735812,-93.98322&ev=p
+ /nexearch_e.js?sm=tab_lve&age=6645&dummy=93926
+
+
+ /cbk?output=xml&panoid=WQCBtsTvh3gxLu9bz8GoNQ&cb_client=maps_sv
+
+
+/cbk?output=xml&panoid=afSyokGFR0po2NOxftPgOA&cb_client=maps_sv
+/cbk?output=tile&panoid=afSyokGFR0po2NOxftPgOA&zoom=0&x=0&y=0&cb_client=maps_sv
+
+/cbk?output=tile&panoid=afSyokGFR0po2NOxftPgOA&zoom=3&x=4&y=2&cb_client=maps_sv
+
+
+
+/cbk?output=xml&ll=32.736353,-93.977523&radius=73&cb_client=maps_sv
+/cbk?output=thumbnail&w=94&h=75&radius=73&ll=32.736353,-93.977523&cb_client=maps_sv
+
+/cbk?output=xml&cb_client=maps_sv&ll=32.736353%2C-93.977523&radius=73

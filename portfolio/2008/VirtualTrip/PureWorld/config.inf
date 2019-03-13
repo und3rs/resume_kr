@@ -1,0 +1,15 @@
+﻿XML_INFO = "http://maps.google.com/cbk?output=xml&cb_client=maps_sv&panoid=";
+URL_XML_PANOID = "http://maps.google.com/cbk?output=xml&cb_client=maps_sv_ta&radius=1024&";
+
+
+URL_XLM = "http://cbk0.google.com/cbk?";
+
+savePath = ".\\worlds\\";
+xmlPath = ".\\xmls\\";
+tempPath = ".\\worlds\\temp\\";
+HORIZON_IMG_NUM = 7;
+VERTICAL_IMG_NUM = 4;
+
+
+image_width = 3328;
+image_height = 1600;

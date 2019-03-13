@@ -1,0 +1,64 @@
+# Site settings
+title: "unD3Rs Resume"
+description: "A resume of unD3Rs"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "unD3Rs"
+resume_title:                   "세상을 더 편리하게"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "und3rs@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "010-2934-5790"
+resume_contact_address:         "Gyeonggi-do, Republic of Korea"
+
+resume_header_contact_info:     "Gyeonggi-do, Republic of Korea • 010-2937-5790 • und3rs@gmail.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>저는 1991년에 286 컴퓨터를 처음 구매하였고, 프로그래밍을 접하게 되었습니다. 그때부터 프로그래밍은 친구이자 놀이로서 제 삶의 일부분이 되었습니다. 저는 모르는 것이나 새로운 기술에 대해서 알아가는 것이 너무나 즐겁습니다. 그리고 제가 만든 작품을 많은 사람들이 사용해 주는것에 행복을 느낍니다. 저는 개발자로서 우리의 삶을 좀 더 편리하고 스마트하게 바꾸는데 많은 관심이 많습니다.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_professional_projects:        true
+resume_section_personal_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_activities:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/und3rs"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://crystalcube.co.kr"
+  #resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

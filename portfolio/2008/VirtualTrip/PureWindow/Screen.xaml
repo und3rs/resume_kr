@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="PureWindow.Screen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:my="clr-namespace:PureWindow">
+    <Grid>
+        <my:PanoramaViewer x:Name="Viewer"/>
+        <Grid Margin="0,26,11,0" x:Name="DebugWindow" Visibility="Hidden" Background="Gray" Width="80" HorizontalAlignment="Right" Height="65" VerticalAlignment="Top">
+            <TextBlock IsHitTestVisible="False" Margin="0,5,0,0">X : </TextBlock>
+            <Label Height="24" HorizontalAlignment="Left" Margin="20,0,0,0" Name="lblAxisX" VerticalAlignment="Top" Width="92" IsHitTestVisible="False">0</Label>
+            <TextBlock IsHitTestVisible="False" Margin="0,25,0,0">Y : </TextBlock>
+            <Label Height="24" HorizontalAlignment="Left" Margin="20,20,0,0" Name="lblAxisY" VerticalAlignment="Top" Width="92" IsHitTestVisible="False">0</Label>
+            <TextBlock IsHitTestVisible="False" Margin="0,45,0,0">Z : </TextBlock>
+            <Label Height="24" HorizontalAlignment="Left" Margin="20,40,0,0" Name="lblAxisZ" VerticalAlignment="Top" Width="92" IsHitTestVisible="False">0</Label>
+        </Grid>
+        <Grid IsHitTestVisible="False" Height="81" Width="78" x:Name="compas" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10, 10, 0, 0">
+            <Image Name="blue_compas" Stretch="Fill"  Source="/PureWindow;component/images/image29.png" Opacity="1" Height="81" Width="78" IsHitTestVisible="False"/>
+            <Image Name="white_compas" Stretch="Fill" Source="/PureWindow;component/images/image7.png" IsHitTestVisible="False"/>
+            <TextBlock IsHitTestVisible="False" Margin="4,88,190,101" Name="textBlock1" Background="WhiteSmoke" Foreground="Gray" />
+        </Grid>
+        <TextBlock Name="notice" Margin="10, 150, 0, 0" Background="White" Foreground="Black" Width="130" Height="20" FontSize="15">맵을 다운로드 중입니다</TextBlock>
+        
+    </Grid>
+</UserControl>
