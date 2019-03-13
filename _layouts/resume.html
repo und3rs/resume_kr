@@ -92,11 +92,9 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization" style="display:table;">
           <a href="{{ job.url }}" target="_blank" style="float:left;margin-right: 8px;"><img src="{{ job.ci }}" style="width: 128px;height: 128px;"></a>
-          <div style="float:right">
-            <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-            <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-            <p class="resume-item-copy">{{ job.summary }}</p>
-          </div>
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
