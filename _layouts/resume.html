@@ -60,6 +60,7 @@
         </header>
 
         {% for education in site.data.education %}
+        {% if education.icon %}<img src="{{ education.icon }}" style="float:left; width:64px; height:64px; margin-right:12px;"/>{% endif %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"><a href="{{ education.url }}" target="_blank">{{ education.uni }}<a></h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
