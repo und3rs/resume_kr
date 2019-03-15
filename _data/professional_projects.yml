@@ -32,7 +32,7 @@
 - project: 음성변조 엔진 개발 (Parfait)
   corp: 라인플러스 주식회사
   duration: Oct, 2017 &mdash; Nov, 2017
-  url: portfolio/2017/Parfait
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait
   cover: portfolio/2017/Parfait/b612.jpg
   description: Parfait 는 C++로 구현된 DSP (Digital Signal Processing)을 이용한 음성변조 엔진입니다. Fuzz, Distortion, Harmonic 등 22 여가지의 기능들을 추가하고 라이브러리화 하였습니다. 현재 SNOW 카메라 앱과 b612 카메라 앱에서 사용중입니다.
   role: 혼자서 진행한 프로젝트로서, iOS 와 Android 용 라이브러리 그리고 제작용자 앱도 함께 개발하였습니다.
