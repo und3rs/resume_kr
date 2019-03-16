@@ -11,7 +11,7 @@
 - project: OTG 리버스엔지니어링
   duration: Apr, 2018
   description: 구매한 영상들이 OTG 형태로 제공되었습니다. 그래서 영상을 보려면, 거추장스럽게 휴대폰에 OTG를 매번 연결해야 합니다. 이것이 너무 불편하여 Fake OTG 를 리버스 엔지니어링을 통해 OTG 없이 동영상을 휴대폰에 넣어 볼 수 있도록 만들었습니다.
-  skills: Android, dalvik
+  skills: Android, smali
 
 
 - project: Digital Alarm
