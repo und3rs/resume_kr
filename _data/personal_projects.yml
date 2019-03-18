@@ -56,7 +56,7 @@
 
 - project: GPS 를 이용한 실시간 셔틀버스 추적기
   duration: Jun, 2008 &mdash; Nov, 2008
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation/README.md
   description: 소프트웨어 멤버십 출품을 위한 프로젝트로서 현재의 시내버스 위치 추적앱과 유사합니다. 2008년에 진행한 프로젝트로 당시에는 이런 개념이 없었습니다. USB 형태의 GPS 시리얼 모듈과 Wibro 를 노트북에 연결하고, GPS 에서 받아온 위치정보를 메인서버에 보냅니다. Google Map 에서 해당 위치에 마커를 달아 실시간으로 수신자가 위치를 알 수 있도록 해 줍니다. 추후 교내 전시도 하였고 교통공학과 교수님으로부터 제의도 받았었습니다.
   skills: C#, Ajax/Javascript, MySQL, GPS(wgs84)
 
