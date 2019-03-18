@@ -14,7 +14,7 @@
         <div class="language-selection">
             &nbsp;<a href="https://sungwook.kim">English</a><a href="https://kr.sungwook.kim">한국어</a>
         </div>
-        
+
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
         <img src="images/avatar.png" alt="my photo" class="avatar no-print" itemprop="image">
@@ -56,7 +56,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>학력</h2>
+          <h2>Education</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -87,7 +87,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>경력</h2>
+          <h2>Professional Experience</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -102,111 +102,14 @@
       </section>
       <!-- end Experience -->
       {% endif %}
-
-
-    
-      {% if site.resume_section_professional_projects %}
-      <!-- begin Projects -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>프로젝트</h2>
-        </header>
-
-        {% for project in site.data.professional_projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ project.duration }}</h4>
-          <h4 class="resume-item-details" itemprop="description">{{ project.corp }}</h4>
-          {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
-          {% if project.youtube %}<iframe width="100%" height="480" src="{{ project.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}
-          {% if project.video %}<video width="100%" controls><source src="{{ project.video }}" type="video/mp4">Your browser does not support the video tag.</video>{% endif %}
-          <p class="resume-item-copy">{{ project.description }}</p>
-          <p class="resume-item-copy">{{ project.role }}</p>
-          <p class="resume-item-copy">&bull; <em>{{ project.skills }}</em></p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Projects -->
-      {% endif %}
-    
-    
-    
-      {% if site.resume_section_personal_projects %}
-      <!-- begin Projects -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2>개인 프로젝트</h2>
-        </header>
-
-        {% for project in site.data.personal_projects %}
-        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
-          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.duration }}</h4>
-          {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
-          <p class="resume-item-copy">{{ project.description }}</p>
-          <p class="resume-item-copy">&bull; {{ project.skills }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Projects -->
-      {% endif %}    
-    
-    
-      {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Recognition</h2>
-        </header>
-
-        {% for recognition in site.data.recognitions %}
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Recognition -->
-      {% endif %}
-
-    
-    
-      {% if site.resume_section_activities %}
-      <!-- begin Activaties -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>활동내용</h2>
-        </header>
-
-        {% for activation in site.data.activities %}
-        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{% if activation.url %}<a href="{{ activation.url }}" target="_blank">{{ activation.organization }}</a>{% else %}{{ activation.organization }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ activation.year }}</h4>
-          <h4 class="resume-item-details" itemprop="description">{{ activation.role }}</h4>
-          {% if activation.cover %}<img src="{{ activation.cover }}" style="width:100%"/>{% endif %}
-          <p class="resume-item-copy">{{ activation.summary }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Activaties -->
-      {% endif %}
-
-    
+        
+        
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>보유기술</h2>
+          <h2>Skills</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -278,6 +181,106 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
+        
+
+
+    
+      {% if site.resume_section_professional_projects %}
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Professional Projects</h2>
+        </header>
+
+        {% for project in site.data.professional_projects %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name" id="{{ project.id }}">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ project.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ project.corp }}</h4>
+          {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
+          {% if project.youtube %}<iframe width="100%" height="480" src="{{ project.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}
+          {% if project.video %}<video width="100%" controls><source src="{{ project.video }}" type="video/mp4">Your browser does not support the video tag.</video>{% endif %}
+          <p class="resume-item-copy">{{ project.description }}</p>
+          <p class="resume-item-copy">{{ project.role }}</p>
+          <p class="resume-item-copy">&bull; <em>{{ project.skills }}</em></p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Projects -->
+      {% endif %}
+    
+    
+    
+      {% if site.resume_section_personal_projects %}
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Personal Projects</h2>
+        </header>
+
+        {% for project in site.data.personal_projects %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-title" itemprop="name" id="{{ project.id }}">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ project.duration }}</h4>
+          {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
+          <p class="resume-item-copy">{{ project.description }}</p>
+          <p class="resume-item-copy">&bull; {{ project.skills }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Projects -->
+      {% endif %}    
+    
+    
+      {% if site.resume_section_recognition %}
+      <!-- begin Recognition -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Recognition</h2>
+        </header>
+
+        {% for recognition in site.data.recognitions %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
+          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
+          <p class="resume-item-copy">{{ recognition.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Recognition -->
+      {% endif %}
+
+    
+    
+      {% if site.resume_section_activities %}
+      <!-- begin Activaties -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Activites</h2>
+        </header>
+
+        {% for activation in site.data.activities %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if activation.url %}<a href="{{ activation.url }}" target="_blank">{{ activation.organization }}</a>{% else %}{{ activation.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ activation.year }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ activation.role }}</h4>
+          {% if activation.cover %}<img src="{{ activation.cover }}" style="width:100%"/>{% endif %}
+          <p class="resume-item-copy">{{ activation.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Activaties -->
+      {% endif %}
+
+    
 
     </div>
 
