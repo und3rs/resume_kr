@@ -217,7 +217,7 @@
 - project: Surface TableTop
   corp: 삼성전자 종합기술원
   duration: Jun, 2008 &mdash; Sep, 2008
-  url: portfolio/2008/TableTop
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2008/TableTop/README.md
   video: portfolio/2008/TableTop/TableTop.mp4
   description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Tabletop 은 2008년 삼성 기술전 출품용 프로젝트로 탁상용 컴퓨터를 위한 컨텐츠를 개발하는 프로젝트였습니다.
   role: 저는 QR-Code 를 이용한 파일을 송수신하는 앱과 데스크탑 서버를 개발하였습니다. 그리고 음악의 비트를 Shacker 라는 바이브레이터로 표현해주는 기능을 개발하였습니다.
