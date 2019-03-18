@@ -32,7 +32,7 @@
 - project: 음성변조 엔진 개발 (Parfait)
   corp: 라인플러스 주식회사
   duration: Oct, 2017 &mdash; Nov, 2017
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait/README.md
   cover: portfolio/2017/Parfait/b612.jpg
   description: Parfait 는 C++로 구현된 DSP (Digital Signal Processing)을 이용한 음성변조 엔진입니다. Fuzz, Distortion, Harmonic 등 22 여가지의 기능들을 추가하고 라이브러리화 하였습니다. 현재 SNOW 카메라 앱과 b612 카메라 앱에서 사용중입니다.
   role: 혼자서 진행한 프로젝트로서, iOS 와 Android 용 라이브러리 그리고 제작용자 앱도 함께 개발하였습니다.
@@ -80,7 +80,7 @@
   
 - project: 컬러링 북 앱
   corp: 라인플러스 주식회사
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook/README.md
   duration: Aug, 2015 &mdash; Sep, 2015
   description: 컬러링 북은 팀에서 소규모로 진행한 프로토타입 프로젝트였습니다.
   role: 디자이너 1명과 함께 개발하였습니다. 처음 기대했던 것보다 재미가 없어서 출시하지 않았습니다.
@@ -89,7 +89,7 @@
 
 - project: 툰챗
   corp: 라인플러스 주식회사
-  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat
+  url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat/README.md
   duration: Mar, 2015 &mdash; Jly, 2015
   description: 진부한 말풍선 형태의 메신저가 아닌, 웹툰 형태의 메신저 앱 입니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
   role: 안드로이드 앱과 서버 개발을 담당하였습니다.
