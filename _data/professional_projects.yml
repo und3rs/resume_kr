@@ -12,8 +12,9 @@
 - project: 제페토 서비스
   corp: 스노우 주식회사
   duration: Jan, 2019 - Feb, 2019
+  cover: http://img.youtube.com/vi/n0llsGlXT_U/0.jpg
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
-  youtube: https://www.youtube.com/embed/n0llsGlXT_U
+  # youtube: https://www.youtube.com/embed/n0llsGlXT_U
   description: 제페토는 나를 닮은 예쁜 3D 아바타라는 컨셉의 글로벌 앱 입니다. 구글 플레이와 앱스토어에서 누적 수천만 다운로드를 달성하고 있습니다.
   role: 저는 각 종 퀘스트와 스크래치, 부정사용자 감시, 중국 사용자 마이그레이션 기능들을 개발하였습니다.
   skills: NodeJS, MongoDB, Redis, GameSparks
