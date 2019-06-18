@@ -3,7 +3,7 @@
 - company: 스노우 주식회사
   ci: ./corp/snow.png
   url: https://snowcorp.com
-  position: 개발자
+  position: 핵심 개발자
   duration:  May, 2017  &mdash; Now
   summary: LINE+ 가 SNOW 와 인수합병되어 재직하게 되었습니다.
   
@@ -11,7 +11,7 @@
 - company: 라인플러스 주식회사
   ci: ./corp/line.jpg
   url: https://linepluscorp.com
-  position: 개발자
+  position: 핵심 개발자
   duration:  Aug, 2014  &mdash; Apr, 2017
   summary: 위트스튜디오가 네이버 자회사인 LINE+ 에 <a href="https://news.joins.com/article/15376773" target="_blank">인수</a>되어 재직하게 되었습니다.
   
