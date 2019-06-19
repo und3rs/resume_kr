@@ -2,7 +2,7 @@
 # Digital content development and creation
 
 - skill: 프로그래밍 언어
-  description: O-Caml, C/C++, C#/WPF, MFC, NASM, MASM32, Java, PHP, Python, javascript, HTML, Swift, Objective-C
+  description: O-Caml, C/C++, C#/WPF, MFC, NASM, MASM32, Java, PHP, Python, javascript, HTML, Swift, Objective-C, Kotlin
   
 - skill: OS / 프레임워크 / DB
   description: CentOS, Mono, Laravel, Django, Redis, MongoDB, MySQL/SQLite/MSSQL, Phalcon, Android, Tensorflow
