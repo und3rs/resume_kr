@@ -3,7 +3,7 @@
 - company: 스노우 주식회사
   ci: ./corp/snow.png
   url: https://snowcorp.com
-  position: 핵심 개발자
+  position: Principal Developer
   duration:  May, 2017  &mdash; Now
   summary: LINE+ 가 SNOW 와 인수합병되어 재직하게 되었습니다.
   
@@ -11,7 +11,7 @@
 - company: 라인플러스 주식회사
   ci: ./corp/line.jpg
   url: https://linepluscorp.com
-  position: 핵심 개발자
+  position: Principal Developer
   duration:  Aug, 2014  &mdash; Apr, 2017
   summary: 위트스튜디오가 네이버 자회사인 LINE+ 에 <a href="https://news.joins.com/article/15376773" target="_blank">인수</a>되어 재직하게 되었습니다.
   
@@ -19,7 +19,7 @@
 - company: 위트스튜디오
   ci: ./corp/witstudio.png
   url: https://witstudio.tistory.com
-  position: 코파운더 / 개발팀장
+  position: co-founder / Development Manager
   duration:  Nov, 2012  &mdash; Jly, 2014
   summary: 스타트업 회사로서 지인 3명과 함께 창업한 회사입니다. [<a href="http://news.hankyung.com/article/2013080438211" target="_blank">기사</a>]
   
@@ -27,6 +27,6 @@
 - company: 삼성전자 주식회사
   ci: ./corp/samsung.jpg
   url: https://www.samsung.com/sec
-  position: 개발자 (S3)
+  position: Software Developer (S3)
   duration:  Jan, 2010  &mdash; Oct, 2012
   summary: 첫 공식 직장으로서 MSC(Media Solution Center)사업부에서 일하며 많은 것들을 배울 수 있었습니다. 하지만 창의적인 것들을 할 수 있는 기회가 적어 회의감을 느끼고 이직을 하게 되었습니다.
