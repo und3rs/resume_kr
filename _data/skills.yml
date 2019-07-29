@@ -2,10 +2,10 @@
 # Digital content development and creation
 
 - skill: 프로그래밍 언어
-  description: O-Caml, C/C++, C#/WPF, MFC, NASM, MASM32, Java, PHP, Python, javascript, HTML, Swift, Objective-C, Kotlin
+  description: O-Caml, C/C++, C#/WPF, MFC, NASM, MASM32, Java, PHP, Python, javascript, HTML, Swift, Objective-C, Kotlin  etc
   
 - skill: OS / 프레임워크 / DB
-  description: CentOS, Mono, Laravel, Django, Redis, MongoDB, MySQL/SQLite/MSSQL, Phalcon, Android, Tensorflow
+  description: CentOS, Mono, Laravel, Django, Redis, MongoDB, MySQL/SQLite/MSSQL, Phalcon, Android, Tensorflow, Kubernets, Docker etc
   
 - skill: 보유 능력
-  description: Kubernets, Deep-Learning, System Infra Construction & Management, Service Architecture Building, Reverse Enginerring, System Security, Networking, Web Development, PC Software Development, Mobile App Development and Anything you want.
+  description: AI(Deep-Learning) 개발, 서버 개발, 클라이언트 개발, 안드로이드 개발, 리버스 엔지니어링, 보안, 네트워크 전문가, PC 소프트웨어 개발, 웹 프론트엔드 및 백엔드 개발, 서비스 아키텍쳐 개발, 서비스 인프라 구축,각종 라이브러리 개발, 팀 메니지먼트, 그 외 무엇인든지 가능
