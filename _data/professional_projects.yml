@@ -103,6 +103,7 @@
 - project: 컬러링 북 앱
   corp: 라인플러스 주식회사
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/coloringbook/README.md
+  cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/coloringbook/coloringbook_main.png
   duration: Aug, 2015 &mdash; Sep, 2015
   contribution: 100
   description: 컬러링 북은 팀에서 소규모로 진행한 프로토타입 프로젝트였습니다.
@@ -113,6 +114,7 @@
 - project: 툰챗
   corp: 라인플러스 주식회사
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2015/toonchat/README.md
+  cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/toonchat/toonchat_2.png
   duration: Mar, 2015 &mdash; Jly, 2015
   contribution: 100
   description: 진부한 말풍선 형태의 메신저가 아닌, 웹툰 형태의 메신저 앱 입니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
