@@ -1,12 +1,23 @@
 # Projects
 
+
+- project: 서비스 인프라 플랫폼(PasS)
+  corp: 스노우 주식회사
+  duration: Aug, 2019 - Now
+  contribution: 80
+  # url: "#"
+  description: 어떤 서비스든 반드시 필요한 기본 인프라가 있습니다. 매번 이것을 구축하는 작업을 하는것은 소모적인 일입니다. 그래서 PasS(Platform as a Service) 형태로 서비스용 범용 플랫폼을 개발하고 있습니다. 각종 리소스(텍스트, File 등)를 등록하고 관리할 수 있으며, 애플리케이션에서는 API SDK 를 통해서 이용 가능합니다. 관리자 웹 페이지를 제공함으로써 비개발자(운영팀)에서도 손쉽게 관리가 가능합니다. contentful.com 을 내제화 하는 프로젝트 입니다.
+  role: 저는 Cloud 에 서비스 Cluster 구축, API 서비스 및 node 용 SDK 개발, Docker 및 Helm 빌드, 서버 관리 및 운용을 담당하며, 이 API를 이용하여 관리자 웹페이지 제작을 프론트엔드 개발자 2명이 담당합니다.
+  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, MongoDB, javascript ES6, Alibaba Cloud(AWS)
+  
+  
 - project: 제페토 오픈 API
   corp: 스노우 주식회사
-  duration: Mar, 2019 - Now
+  duration: Mar, 2019 - Jly, 2019
   contribution: 100
   # url: "#"
   description: 외부에서 제페토의 서비스를 이용할 수 있도록 제공하는 글로벌 API 입니다. 3D 인 아바타를 렌더링하여 이미지를 제공해주는 API 가 포함되어 있습니다. 이를 위해서 kubernetes 기반의 클러스터에 Headless GPU 서버들로 구성되어 있습니다.
-  role: 비싼 GPU 리소스를 효율적으로 활용하기 위한 아키텍쳐, 클러스터 구축, Headless GPU 렌더링 환경구축 등 모든 분야를 혼자서 담당하고 있습니다. 
+  role: 비싼 GPU 리소스를 효율적으로 활용하기 위한 아키텍쳐, 클러스터 구축, Headless GPU 렌더링 환경구축 등 모든 분야를 혼자서 담당하고 있습니다. 중국과 일본에 서버를 두고 관리하고 있습니다.
   skills: Kubernetes, Docker, CentOS, Unity, Python, Redis, Django, HA
 
   
@@ -30,7 +41,7 @@
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: GPU(AI)를 사용하는 Restful-API
-  role: AI 용 Restful API 를 개발하였습니다. 해당 API는 하루 약 8,000,000 번의 호출을 처리합니다. AWS와 유사한 알리바바 클라우드에 GPU Instance 위에서 개발했으며, 인프라 설계/구성, 네트워크 세팅, 개발 등 모든 작업을 혼자서 하였습니다.
+  role: AI 용 Restful API 를 개발하였습니다. 해당 API는 하루 약 8,000,000 번의 호출을 처리합니다. AWS와 유사한 알리바바 클라우드에 GPU Instance 위에서 개발했으며, 인프라 설계/구성, 네트워크 세팅, 개발 등 모든 작업을 혼자서 하였습니다. Cluter 리전은 셰게 각국에 6개로 서버 150여개를 관리하였습니다.
   skills: Django, Nginx, Alibaba Cloud(like AWS), Tensorflow
   
   
