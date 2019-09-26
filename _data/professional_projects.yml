@@ -5,6 +5,7 @@
   corp: 스노우 주식회사
   duration: Aug, 2019 - Now
   contribution: 80
+  position: Backend/Server, Architecting, Managing
   # url: "#"
   description: 어떤 서비스든 반드시 필요한 기본 인프라가 있습니다. 매번 이것을 구축하는 작업을 하는것은 소모적인 일입니다. 그래서 PasS(Platform as a Service) 형태로 서비스용 범용 플랫폼을 개발하고 있습니다. 각종 리소스(텍스트, File 등)를 등록하고 관리할 수 있으며, 애플리케이션에서는 API SDK 를 통해서 이용 가능합니다. 관리자 웹 페이지를 제공함으로써 비개발자(운영팀)에서도 손쉽게 관리가 가능합니다. contentful.com 을 내제화 하는 프로젝트 입니다.
   role: 저는 Cloud 에 서비스 Cluster 구축, API 서비스 및 node 용 SDK 개발, Docker 및 Helm 빌드, 서버 관리 및 운용을 담당하며, 이 API를 이용하여 관리자 웹페이지 제작을 프론트엔드 개발자 2명이 담당합니다.
@@ -15,6 +16,7 @@
   corp: 스노우 주식회사
   duration: Mar, 2019 - Jly, 2019
   contribution: 100
+  position: Backend/Server, Architecting, Managing
   # url: "#"
   description: 외부에서 제페토의 서비스를 이용할 수 있도록 제공하는 글로벌 API 입니다. 3D 인 아바타를 렌더링하여 이미지를 제공해주는 API 가 포함되어 있습니다. 이를 위해서 kubernetes 기반의 클러스터에 Headless GPU 서버들로 구성되어 있습니다.
   role: 비싼 GPU 리소스를 효율적으로 활용하기 위한 아키텍쳐, 클러스터 구축, Headless GPU 렌더링 환경구축 등 모든 분야를 혼자서 담당하고 있습니다. 중국과 일본에 서버를 두고 관리하고 있습니다.
@@ -25,6 +27,7 @@
   corp: 스노우 주식회사
   duration: Jan, 2019 - Aug, 2019
   contribution: 20
+  position: Backend, Frontend
   #cover: http://img.youtube.com/vi/n0llsGlXT_U/0.jpg
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   youtube: https://www.youtube.com/embed/n0llsGlXT_U
@@ -38,6 +41,7 @@
   corp: 스노우 주식회사
   duration: Sep, 2018 - Dec, 2018
   contribution: 100
+  position: Backend/Server, Architecting, Managing
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: GPU(AI)를 사용하는 Restful-API
@@ -50,6 +54,7 @@
   corp: 스노우 주식회사
   duration: Dec, 2017 - Dec, 2018
   contribution: 100
+  position: Deep-learning, Modeling, Training
   url: https://play.google.com/store/apps/details?id=me.zepeto.main
   cover: portfolio/2018/zepeto/sample.png
   description: 제페토는 나를 닮은 예쁜 3D 아바타라는 컨셉의 글로벌 앱 입니다. 사용자가 촬영한 셀피 사진을 바탕으로 나를 닮은 3D 아바타를 만들어 줍니다.
@@ -61,6 +66,7 @@
   corp: 라인플러스 주식회사
   duration: Oct, 2017 &mdash; Nov, 2017
   contribution: 100
+  position: Mobile Library Developing
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2017/Parfait/README.md
   cover: portfolio/2017/Parfait/b612.jpg
   description: Parfait 는 C++로 구현된 DSP (Digital Signal Processing)을 이용한 음성변조 엔진입니다. Fuzz, Distortion, Harmonic 등 22 여가지의 기능들을 추가하고 라이브러리화 하였습니다. 현재 SNOW 카메라 앱과 b612 카메라 앱에서 사용중입니다.
@@ -72,6 +78,7 @@
   corp: 스노우 주식회사
   duration: Feb, 2017 - Sep, 2017
   contribution: 20
+  position: Library Developing
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
   youtube: https://www.youtube.com/embed/tPCdqD4pWVw
   description: 포트라는 다양한 필터를 제공하는 카메라 앱 입니다.
@@ -84,6 +91,7 @@
   corp: 라인플러스 주식회사
   duration: Sep, 2016 &mdash; Jan, 2017
   contribution: 80
+  position: Frontend, Backend
   url: https://store.linefriends.co.kr
   description: 라인 프렌즈 스토어는 라인의 굿즈를 판매하는 스토어 사이트입니다. 기존 스토어가 속도가 느리고 결제 오류가 많아 리뉴얼하게 되었습니다.
   role: 개발자 2명이서 진행한 프로젝트로서 Wordpress, 우커머스를 기반으로 커스터마이징 하는 방식으로 진행하였습니다. 팀 일정에 의해 개발 완료 후 라인프렌즈에 이관하였습니다.
@@ -94,6 +102,7 @@
   corp: 라인플러스 주식회사
   duration: Jan, 2016 &mdash; Aug, 2016
   contribution: 100
+  position: Frontend, Backend/Server
   url: https://linecorp.com/en/pr/news/en/2016/1363
   cover: portfolio/2016/egg/egg.jpg
   description: egg 는 지금의 B612 나 SNOW 카메라 앱과 유사한 앱입니다. 회사 M&A 과정에서 B612와 SNOW 앱으로 흡수되어 현재는 스토어에서 삭제 되었습니다.
@@ -106,6 +115,7 @@
   url: https://store.line.me
   duration: Oct, 2015 &mdash; Dec, 2015
   contribution: 100
+  position: Backend/Server
   description: 라인 크리에이터스는 메신저 라인의 커스텀 스티커 제작 및 판매를 위한 포털 사이트입니다. 사용자는 이곳을 통해서 자신이 만든 스티커를 등록하고 판매할 수 있습니다.
   role: 저는 Rest API, Redis, Sphinx, MySQL 등 서버 환경 구축 및 개발을 하였습니다. 또한 보안 및 API 서비스 이슈 대응을 담당하였습니다. 처음에 팀장의 요청으로 ASP/Windows 환경으로 구축하였다가 이후에 라이선스 관련 예산문제로 PHP/CentOS 로 다시 개발하였습니다. 빠른 자연어 검색을 위해 Sphinx 를 적용하였습니다.
   skills: ASP, MSSQL, CentOS, PHP, MySQL, Sphinx, Security, HA, Redis
@@ -117,6 +127,7 @@
   cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/coloringbook/coloringbook_main.png
   duration: Aug, 2015 &mdash; Sep, 2015
   contribution: 100
+  position: Frontend
   description: 컬러링 북은 팀에서 소규모로 진행한 프로토타입 프로젝트였습니다.
   role: 디자이너 1명과 함께 개발하였습니다. 처음 기대했던 것보다 재미가 없어서 출시하지 않았습니다.
   skills: Android, Javascript, SVG
@@ -128,6 +139,7 @@
   cover: https://github.com/und3rs/resume/raw/gh-pages/portfolio/2015/toonchat/toonchat_2.png
   duration: Mar, 2015 &mdash; Jly, 2015
   contribution: 100
+  position: Frontend, Backend/Server
   description: 진부한 말풍선 형태의 메신저가 아닌, 웹툰 형태의 메신저 앱 입니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
   role: 안드로이드 앱과 서버 개발을 담당하였습니다.
   skills: Android, MySQL, Rest API, PHP
@@ -137,8 +149,9 @@
   corp: 라인플러스 주식회사
   duration: Nov, 2014 &mdash; Feb, 2015
   contribution: 100
+  position: Frontend, Backend/Server
   description: 세상에서 가장 단순한 메신저 앱으로서, 글 없이 제공되는 이미지 심볼만 보내고 받을 수 있습니다. 프로토타입으로 개발하였으며 반응이 좋지 않아 진행 종료되었습니다.
-  role: 안드로이드 앱을 담당하여 개발하였습니다.
+  role: 안드로이드 앱 및 서버를 담당하여 개발하였습니다.
   skills: Android
     
   
@@ -146,6 +159,7 @@
   corp: 라인플러스 주식회사
   duration: Aug, 2014 &mdash; Sep, 2014
   contribution: 100
+  position: Frontend, Backend/Server
   description: 디자인 팀에서 의뢰하여 진행한 사내용 프로젝트 입니다. 디자이너들은 작업한 리소스를 공용 스토리지에 무작위로 저장하고 있었습니다. 태그를 달고 검색이 가능하며, 전체 목록을 볼 수 있는 사이트가 필요하여 진행하였습니다. 리소스를 보고 검색할 수 있는 사이트와 파일 시스템을 감시하고 목록을 관리하는 시스템부로 이루어져 있습니다.
   role: 저는 psd 파서, 메타정보 추출기 등 개발에 필요한 라이브러리들을 주로 개발하였습니다.
   skills: web, C#, Resource Meta Extracting, Javascript
@@ -155,6 +169,7 @@
   corp: 위트스튜디오
   duration: Feb, 2014 &mdash; May, 2014
   contribution: 100
+  position: Desktop Native
   url: https://witstudio.tistory.com/257
   cover: portfolio/2014/syncor/syncor.png
   description: 싱커는 APNG 를 이용하여 만든 데스크탑 화면을 스트리밍 해주는 프로그램입니다. 덕분에 클라이언트는 별도의 프로그램 없이 스트리밍되는 화면을 볼 수 있습니다.
@@ -166,6 +181,7 @@
   corp: 위트스튜디오
   duration: Mar, 2013 &mdash; Jan, 2014
   contribution: 40
+  position: Desktop Native, Backend
   url: https://witstudio.tistory.com/search/assist
   youtube: https://www.youtube.com/embed/TZcrmyaj2XA
   description: Assistor PS 는 디자이너들이 포토샵에서 자주 쓰지만 불편한 것들을 편하게 도와주는 데스크탑 프로그램입니다.
@@ -177,6 +193,7 @@
   corp: 위트스튜디오
   duration: Jan, 2013 &mdash; Feb, 2013
   contribution: 100
+  position: Frontend, Backend
   url: https://witstudio.tistory.com/category/Grappic
   youtube: https://www.youtube.com/embed/EW2h7dz6Hhw
   description: 디자이너들이 앱을 디자인 하기 위해서 수많은 레퍼런스들을 참고합니다. Grappic은 앱스토어에 등록된 모든 앱들의 디자인을 정리해서 보여주는 디자이너를 위한 앱 입니다.
@@ -190,6 +207,7 @@
   url: https://witstudio.tistory.com/149
   duration: Nov, 2012 &mdash; Dec, 2012
   contribution: 10
+  position: Desktop Native
   description: 코디네이터는 어도비 포토샵과 유사한 UI를 가진 그래픽 프로그램입니다. 하지만 앱 개발에 필요한 각종 UI 개발을 포토샵으로 하려면 많은 노력이 필요합니다. 그리고 수정 작업을 하는 것 역시 만만치 않습니다. 코디네이터는 이런 단점을 보완할 수 있는 디자이너용 프로그램입니다.
   role: 저는 UI 일부를 담당하였습니다. 그리고 범용성을 위해 javascript 로 포토샵 파일(.psd) parser 를 개발하였습니다.
   skills: WPF, C#, Javascript, Photoshop *.psd Spec
@@ -199,6 +217,7 @@
   corp: 삼성전자 MSC 사업부
   duration: Oct, 2011 &mdash; Oct, 2012
   contribution: 40
+  position: Desktop Native, Library Developing
   url: https://www.samsung.com/us/2012-allshare-play
   youtube: https://www.youtube.com/embed/P67r4uV1iC0
   description: AllShare 의 Cloud 버전으로, 같은 네트워크 망이 아닌 다른 망에서도 사용 가능한 AllShare 입니다.
@@ -210,6 +229,7 @@
   corp: 삼성전자 MSC 사업부
   duration: Dec, 2010 &mdash; Sep, 2011
   contribution: 60
+  position: Desktop Native
   url: https://www.youtube.com/watch?v=xBhFE4vzpFE
   youtube: https://www.youtube.com/embed/xBhFE4vzpFE
   description: DLNA 의 DMC, DMS, DMP 기능을 모두 탑제한 PC 소프트웨어 입니다.
@@ -221,6 +241,7 @@
   corp: 삼성전자 MSC 사업부
   duration: Jan, 2010 &mdash; Nov, 2010
   contribution: 15
+  position: Desktop Native
   url: https://www.samsungsvc.co.kr/online/faqView.do?domainId=NODE0000033866&node_Id=NODE0000124882&faqId=KNOW0000002908
   description: Kies 는 DLNA를 포함하여 사진, 영상 편집, 휴대폰과 PC 간 파일 복사 등 휴대폰과 관련된 많은 기능을 제공하는 통합 프로그램입니다.
   role: 저는 DLNA 파트 소속으로 이와 관련된 기능을 유지보수 하였습니다.
@@ -231,6 +252,7 @@
   corp: 위트스튜디오
   duration: Nov, 2009 &mdash; Dec, 2009
   contribution: 100
+  position: Frontend, Backend
   description: 법인설립 이전에 지인 3명이서 함께 팀 빌딩을 하였습니다.
   role: 회사 홈페이지 개발을 하였습니다.
   skills: html, javascript, MySQL, CentOS
@@ -241,6 +263,7 @@
   url: http://www.presskorea.or.kr
   duration: Nov, 2009 &mdash; Dec, 2009
   contribution: 40
+  position: Desktop Native
   description: 지인 3명이서 함께 한 외주 프로젝트로서 기존 Visual C++ 로 구현된 관리자 프로그램을 WPF 로 다시 재작하는 일이었습니다. 신문협회 내부적으로 사용하는 프로그램입니다.
   role: 저는 다른 개발자 1명과 함께 UI 개발 및 데이터 바인딩 작업을 하였습니다.
   skills: WPF, C#
@@ -250,6 +273,7 @@
   corp: 삼성전자 생산기술 연구소
   duration: Aug, 2009 &mdash; Dec, 2009
   contribution: 40
+  position: Desktop Native
   description: SMIS는 사출기 모니터링 시스템으로서 DB 에서 각종 정보를 받아 표와 차트, 그래프로 보여주는 모니터링 툴입니다. 개발자 1명과 함께 진행한 프로젝트입니다.
   role: 저는 데이터를 각종 차트와 표로 보여주는 모듈을 개발하였습니다.
   skills: WPF, C#, MSSQL
@@ -259,6 +283,7 @@
   corp: 삼성전자 종합기술원
   duration: Apr, 2009 &mdash; Jun, 2009
   contribution: 35
+  position: Desktop Native
   description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Ambient Wall 은 2009년 삼성 기술전 출품용 프로젝트입니다. 거실의 한쪽 벽면 전체가 스크린으로 되어있고 이것을 통해 화상통화나 날씨정보, 지도 등을 볼 수 있습니다. 그리고 모든 인터렉션은 모션인식을 통해서 이루어집니다.
   role: 저는 모션정보를 받아서 지도를 제어하고 보여주는 부분을 담당하였습니다.
   skills: C#, WPF
@@ -269,6 +294,7 @@
   duration: Jun, 2008 &mdash; Sep, 2008
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2008/TableTop/README.md
   contribution: 50
+  position: Desktop Native
   video: portfolio/2008/TableTop/TableTop.mp4
   description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Tabletop 은 2008년 삼성 기술전 출품용 프로젝트로 탁상용 컴퓨터를 위한 컨텐츠를 개발하는 프로젝트였습니다.
   role: 저는 QR-Code 를 이용한 파일을 송수신하는 앱과 데스크탑 서버를 개발하였습니다. 그리고 음악의 비트를 Shacker 라는 바이브레이터로 표현해주는 기능을 개발하였습니다.
@@ -279,6 +305,7 @@
   corp: 경기도 군포시
   duration: Nov, 2008 &mdash; Dec, 2008
   contribution: 100
+  position: Frontend, Backend
   url: http://www.happygp.or.kr
   description: ASP 로 되어 있는 홈페이지를 PHP 로 포팅하는 프로젝트였습니다.
   role: 파트타임으로 단독 진행하였습니다.
@@ -289,6 +316,7 @@
   corp: 소누스이엔티
   duration: Sep, 2007 &mdash; Dec, 2007
   contribution: 100
+  position: Frontend, Backend
   description: 엔터테이먼트 회사인 &quot;소누스이엔티(최대진 공연음반영화기획) 논현동 164의16 명성빌딩 304호&quot; 의 회사 소개 홈페이지입니다. 현재는 회사가 존재하지 않는 것으로 보여집니다.
   role: 혼자서 맡은 프로젝트로서 개인적으로 디자이너를 파트타임으로 고용하여 진행하였습니다. 회사 소개 페이지와 관리를 위한 CMS 페이지도 제작하였습니다.
   skills: html, javascript, ajax, MySQL
@@ -299,6 +327,7 @@
   url: portfolio/2006/makeshop/makeshop.jpg
   duration: Jun, 2006 &mdash; Jly, 2006
   contribution: 80
+  position: Frontend
   description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업입니다.
   role: 두 명이서 메이크샵을 이용하여 쇼핑몰을 구축하였습니다.
   skills: html, javascript, Makeshop
