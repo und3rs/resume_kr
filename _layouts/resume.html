@@ -199,6 +199,7 @@
           <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ project.duration }}</h4>
           <h4 class="resume-item-details" itemprop="description">{{ project.corp }}</h4>
           <p class="resume-item-copy" itemprop="description"><b>기여도: {{ project.contribution }}%</b></p>
+          {% if project.position %}<p class="resume-item-copy" itemprop="description"><b>{{ project.position }}%</b></p>{% endif $}
           {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
           {% if project.youtube %}<iframe width="100%" height="480" src="{{ project.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}
           {% if project.video %}<video width="100%" controls><source src="{{ project.video }}" type="video/mp4">Your browser does not support the video tag.</video>{% endif %}
