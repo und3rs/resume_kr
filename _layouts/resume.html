@@ -227,6 +227,7 @@
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name" id="{{ project.id }}">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.duration }}</h4>
+          {% if project.position %}<p class="resume-item-copy" itemprop="description"><b>{{ project.position }}%</b></p>{% endif $}
           {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
           <p class="resume-item-copy">{{ project.description }}</p>
           <p class="resume-item-copy">&bull; {{ project.skills }}</p>
