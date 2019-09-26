@@ -4,12 +4,14 @@
   duration: Apr, 2014 &mdash; Now
   url: https://caz.smartholic.com
   cover: images/smartcaz.jpg
+  position: Mobile Native, Backend/Server
   description: 차량 관리를 위한 앱 입니다. 개발 당시 제가 원하는 기능을 갖고있는 앱이 없었습니다. 이에 필요성을 느껴서 직접 개발하게 되었습니다. 회사를 다니면서 혼자 개발한다는게 시간적으로 쉽지가 않았습니다. 현재 스토어에 등록된 앱 입니다. 이미지 리소스 작업은 파트타임형태로 출시 한 달 전에 디자이너에게 의뢰하여 작업하였습니다.
   skills: Android, Google Firebase, CentOS, MySQL, Redis, REST API, Phalcon, PHP
 
 
 - project: OTG 리버스엔지니어링
   duration: Apr, 2018
+  position: Mobile Native
   description: 구매한 영상들이 OTG 형태로 제공되었습니다. 그래서 영상을 보려면, 거추장스럽게 휴대폰에 OTG를 매번 연결해야 합니다. 이것이 너무 불편하여 Fake OTG 를 리버스 엔지니어링을 통해 OTG 없이 동영상을 휴대폰에 넣어 볼 수 있도록 만들었습니다.
   skills: Android, smali
 
@@ -18,12 +20,14 @@
   cover: images/netduiono.jpg
   url: https://crystalcube.co.kr/134
   duration: May, 2014
+  position: Embeded
   description: 어려서부터 하드웨어 쪽에도 관심이 많았습니다. 우연히 Netduino 라는 보드를 알게되어 이것으로 온라인 제어가 가능한 알람을 만들어 보았습니다. 이 외에도 USB Storage 와 같은 것들을 만들어 보았습니다.
   skills: .NET Micro Framework, Netduino
 
 
 - project: 게임 봇
   duration: 2012
+  position: Desktop Native
   description: 모두의 게임이 한창 유행하고 있을 때, 높은 스코어를 받기 위해 재미로 만들어 보았습니다. 평소에도 이런 것들을 하며 노는 것을 좋아합니다.
   skills: C#
 
@@ -31,24 +35,28 @@
 - project: 위모트 PC 컨트롤러
   duration: Jul, 2012
   url: https://crystalcube.co.kr/101?category=608573
+  position: Desktop Native
   description: 저는 집에서 컴퓨터로 영화를 보는 것이 취미입니다. 가끔 영화를 보다보면 컴퓨터를 조작해야 하는 일이 발생하는데, 그때마다 컴퓨터로 다가가 조작해야하는 것이 너무 불편하였습니다. 마침 집에 위모트 컨트롤러가 있어서 Bluetooth 를 이용한 PC용 리모콘을 제작하였습니다.
   skills: Bluetooth, C#
   
 
 - project: 가상여행
   duration: Sep, 2008 &mdash; Aug, 2009
+  position: Desktop Native
   description: 대학 졸업작품으로 진행한 프로젝트로서 Virtual Trip 이라는 이름에서 알 수 있듯이 가상 여행을 하는 프로그램입니다. 현재의 구글 스트릿 뷰와 같이 WPF 를 통해 3D 공간을 만들었습니다. 이 영상을 HMD(Head Mounted Display)로 통해 출력하여 현실감을 줍니다. 그리고 IR 소자 3개를 이용하여 삼각형 형태로 배치한 기구를 제작하였습니다. 이 불빛을 닌텐도 Wii 의 IR 수신기를 통해 읽어 세 점에 대한 위치정보를 받아 옵니다. 값 분석을 통해 Yaw, Pitch, Roll 의 변화를 감지합니다. 이 변화를 3D 공간에 적용시켜 마치 그곳에 실제로 있는것 같은 착각을 줍니다. 그리고 다리에 위모트를 부착하여 걷는 동작을 인지하여, 가상의 거리를 이동할 수 있게 하였습니다. 지금은 오큘러스와 같은 VR 기기가 많지만, 이 프로젝트를 처음 시작한 시기가 2008년이며 창의적으로 생각해서 진행한 프로젝트였습니다. 이후 머리의 움직임을 좀 더 정확히 트래킹하기 위하여 IR센서에서 자이로 센서로 추적 방식을 변경하였습니다.
   skills: WPF, C#, HardWare, Bluetooth
   
   
 - project: Handover Network Driver
   duration: Mar, 2008 - Jun, 2008
+  position: Desktop Native
   description: 삼성 소프트웨어 멤버십에 있을때 진행한 프로젝트로서, 노트북으로 유선 LAN을 사용 중 이동을 위해 Wi-Fi 로 전환할 경우 연결이 끊어집니다. 이 경우에 네트워크의 끊김없이 통신이 가능하도록 하기 위해한 HandOver driver 를 개발하였습니다.
   skills: NDIS, Windows mini-port driver, C/C++
 
 
 - project: 기억력 게임 (Memorize Game)
   duration: Jun, 2008
+  position: Desktop Native
   url: https://crystalcube.co.kr/category/%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/MemorizeGame
   description: 학습한 ocaml 을 이용하여 만든 간단한 게임입니다. 일종의 기억력 게임으로서 컴퓨터가 누르는 임의의 버튼 순서를 외워, 똑같이 누르면 되는 게임입니다.
   skills: ocaml
@@ -56,6 +64,7 @@
 
 - project: GPS 를 이용한 실시간 셔틀버스 추적기
   duration: Jun, 2008 &mdash; Nov, 2008
+  position: Desktop Native
   url: https://github.com/und3rs/resume/tree/gh-pages/portfolio/2007/gps_remote_naviation/README.md
   description: 소프트웨어 멤버십 출품을 위한 프로젝트로서 현재의 시내버스 위치 추적앱과 유사합니다. 2008년에 진행한 프로젝트로 당시에는 이런 개념이 없었습니다. USB 형태의 GPS 시리얼 모듈과 Wibro 를 노트북에 연결하고, GPS 에서 받아온 위치정보를 메인서버에 보냅니다. Google Map 에서 해당 위치에 마커를 달아 실시간으로 수신자가 위치를 알 수 있도록 해 줍니다. 추후 교내 전시도 하였고 교통공학과 교수님으로부터 제의도 받았었습니다.
   skills: C#, Ajax/Javascript, MySQL, GPS(wgs84)
@@ -63,6 +72,7 @@
 
 - project: 리버스엔지니어링
   duration: Apr, 2005
+  position: Desktop Native
   description: 지인의 부탁으로 리버스엔지니어링을 진행하였습니다.
   skills: Assembly/Decompile, OllyDbg
   
