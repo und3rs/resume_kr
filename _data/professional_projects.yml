@@ -1,13 +1,13 @@
 # Projects
 
 
-- project: 서비스 인프라 플랫폼(PasS)
+- project: 서비스 인프라 플랫폼(PaaS)
   corp: 스노우 주식회사
   duration: Aug, 2019 - Now
   contribution: 80
   position: Backend/Server, Architecting, Managing
   # url: "#"
-  description: 어떤 서비스든 반드시 필요한 기본 인프라가 있습니다. 매번 이것을 구축하는 작업을 하는것은 소모적인 일입니다. 그래서 PasS(Platform as a Service) 형태로 서비스용 범용 플랫폼을 개발하고 있습니다. 각종 리소스(텍스트, File 등)를 등록하고 관리할 수 있으며, 애플리케이션에서는 API SDK 를 통해서 이용 가능합니다. 관리자 웹 페이지를 제공함으로써 비개발자(운영팀)에서도 손쉽게 관리가 가능합니다. contentful.com 을 내제화 하는 프로젝트 입니다.
+  description: 어떤 서비스든 반드시 필요한 기본 인프라가 있습니다. 매번 이것을 구축하는 작업을 하는것은 소모적인 일입니다. 그래서 PaaS(Platform As A Service) 형태로 서비스용 범용 플랫폼을 개발하고 있습니다. 각종 리소스(텍스트, File 등)를 등록하고 관리할 수 있으며, 애플리케이션에서는 API SDK 를 통해서 이용 가능합니다. 관리자 웹 페이지를 제공함으로써 비개발자(운영팀)에서도 손쉽게 관리가 가능합니다. contentful.com 을 내제화 하는 프로젝트 입니다.
   role: 저는 Cloud 에 서비스 Cluster 구축, API 서비스 및 node 용 SDK 개발, Docker 및 Helm 빌드, 서버 관리 및 운용을 담당하며, 이 API를 이용하여 관리자 웹페이지 제작을 프론트엔드 개발자 2명이 담당합니다.
   skills: Kubernetes, Docker, CentOS, Helm, NodeJS, MongoDB, javascript ES6, Alibaba Cloud(AWS)
   
