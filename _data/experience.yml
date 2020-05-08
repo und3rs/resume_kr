@@ -1,4 +1,11 @@
 # Jobs
+
+- company: 네이버Z
+  ci: ./corp/naver.png
+  position: Software Developer
+  duration:  May, 2020  &mdash; Now
+  summary: 제페토팀이 SNOW 로부터 분사하여 재직하게 되었습니다.
+  
   
 - company: 스노우 주식회사
   ci: ./corp/snow.png
