@@ -1,6 +1,6 @@
 # Jobs
 
-- company: 네이버Z
+- company: 네이버Z 
   ci: ./corp/naver.png
   position: Software Developer
   duration:  May, 2020  &mdash; Now
