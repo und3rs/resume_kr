@@ -1,9 +1,30 @@
 # Projects
 
-
-- project: 서비스 인프라 플랫폼(PaaS)
+- project: 서비스 플랫폼 개발확장 및 유지보수(PaaS)
+  corp: 스노우 주식회사/네이버Z
+  duration: Jan, 2020 - Now
+  contribution: 100
+  position: Backend/Server, Architecting, Managing
+  url: https://zepetoful.zepeto.io
+  description: 제페토 서비스의 모든 컨텐츠를 생성/서빙하는 플랫폼입니다. 제페토 메인, 제페토 월드, 제페토 크리에이터 등 모든 서비스의 컨텐츠 리소스를 관리합니다.
+  role: 기존 제페토 서비스에서 사용하던 외부 플랫폼에서 이 플랫폼으로 모두 마이그레이션 완료되었습니다. Kubernetes, CDN, OSS, MongoDB, Redis, OAuth 등을 이용하여 관리서버, 캐시서버, 파일서버, 웹훅서버 등을 개발/운영중에 있습니다. 중국과 글로벌 두개의 cluster 를 분리하여 총 40여개의 서버를 운영하고 있습니다.
+  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, MongoDB, Redis, Alibaba Cloud(AWS), DataDog
+  
+  
+- project: 제페토 렌더링 API 서버 ver 2.0
+  corp: 스노우 주식회사/네이버Z
+  duration: Jan, 2020 - Now
+  contribution: 100
+  position: Backend/Server, Architecting, Managing
+  url: https://render-api.zepeto.io
+  description: 제페토 서비스에서 케릭터 이미지 파일을 생성하여 제공해주는 서비스 서버입니다. 앱이 아닌 모든 곳에서는 해당 API 를 이용하여 이미지를 사용자에게 제공합니다.
+  role: 기존 Python 으로 구축한 ver 1.0 의 유지보수, 성능 개선 등을 위하여 NodeJS 로 새로 구축하였습니다. 하루 150만장 이상의 이미지를 전세계 사용자를 위해 그려내고 있습니다. 중국과 글로벌 Cluster 로 운영중이며, GPU/CPU 서버 도무 포함하여 약 60여대 규모 입니다.
+  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, Redis, Alibaba Cloud(AWS), Swagger, DataDog
+  
+  
+- project: 서비스 인프라 플랫폼(PaaS) 개발
   corp: 스노우 주식회사
-  duration: Aug, 2019 - Now
+  duration: Aug, 2019 - Jan, 2020
   contribution: 80
   position: Backend/Server, Architecting, Managing
   # url: "#"
