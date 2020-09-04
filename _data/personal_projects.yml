@@ -1,8 +1,8 @@
 # Individual Projects
 
 - project: 스마트카즈
-  duration: Apr, 2014 &mdash; Now
-  url: https://caz.smartholic.com
+  duration: Apr, 2014 &mdash; Sep, 2020
+  url: https://github.com/und3rs/resume/blob/gh-pages/portfolio/2020/smartcaz/README.md
   cover: images/smartcaz.jpg
   position: Mobile Native, Backend/Server
   description: 차량 관리를 위한 앱 입니다. 개발 당시 제가 원하는 기능을 갖고있는 앱이 없었습니다. 이에 필요성을 느껴서 직접 개발하게 되었습니다. 회사를 다니면서 혼자 개발한다는게 시간적으로 쉽지가 않았습니다. 현재 스토어에 등록된 앱 입니다. 이미지 리소스 작업은 파트타임형태로 출시 한 달 전에 디자이너에게 의뢰하여 작업하였습니다.
