@@ -1,18 +1,29 @@
 # Projects
 
+- project: 제페토 렌더링 API 서버 ver 3.0
+  corp: 네이버제트 주식회사
+  duration: Dec, 2020 - Now
+  contribution: 90
+  position: Backend/Server, Architecting, Managing
+  url: https://render-swagger.zepeto.io/gateway
+  description: 제페토 서비스에서 케릭터 이미지 파일을 생성하여 제공해주는 서비스 서버입니다. GPU 리소스 최소화와 기능확장에 용이하도록, 기존 ver 2.0 의 모든 아키텍처를 버리고 새로 개발되었습니다.
+  role: api-gateway, service-api, core-api, extension-api, admin-api, renderer 등 총 8개의 micro service 로 구성되어 있으며, 각 api 별로 별도 cache 를 두어 GPU 사용을 최소화 할 수 있도록 구현되어 있습니다. 중국과 글로벌 Cluster 로 운영중이며, GPU/CPU 서버 도무 포함하여 약 60여대 규모 입니다. 1일 처리하고 있는 이미지는 각 클러스터별 4~5천만개. 도합 1억건 내외입니다. 장애율은 약 0.00003% 내외입니다.
+  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, Redis, RabbitMQ, Alibaba Cloud(AWS), Swagger, DataDog
+  
+
 - project: 서비스 플랫폼 개발확장 및 유지보수(PaaS)
-  corp: 스노우 주식회사 / 네이버Z 주식회사
+  corp: 스노우 주식회사 / 네이버제트 주식회사
   duration: Jan, 2020 - Now
   contribution: 100
   position: Backend/Server, Architecting, Managing
   url: https://zepetoful.zepeto.io
-  description: 제페토 서비스의 모든 컨텐츠를 생성/서빙하는 플랫폼입니다. 제페토 메인, 제페토 월드, 제페토 크리에이터 등 모든 서비스의 컨텐츠 리소스를 관리합니다.
-  role: 기존 제페토 서비스에서 사용하던 외부 플랫폼에서 이 플랫폼으로 모두 마이그레이션 완료되었습니다. Kubernetes, CDN, OSS, MongoDB, Redis, OAuth 등을 이용하여 관리서버, 캐시서버, 파일서버, 웹훅서버 등을 개발/운영중에 있습니다. 중국과 글로벌 두개의 cluster 를 분리하여 총 40여개의 서버를 운영하고 있습니다.
-  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, MongoDB, Redis, Alibaba Cloud(AWS), DataDog
+  description: 제페토 서비스의 모든 컨텐츠를 생성/서빙하는 플랫폼입니다. contentful 이라는 외부 솔루션을 그대로 모방하여 99.9% 구현하였으며, 자체적으로 필요한 API 들을 추가하는 방식으로 확장해 나가고 있습니다. 현재 제페토 메인, 제페토 월드, 제페토 크리에이터 등 모든 서비스의 사용하고 있습니다.
+  role: 기존 제페토 서비스에서 사용하던 외부 플랫폼에서 이 플랫폼으로 모두 마이그레이션 완료되었습니다. Kubernetes, CDN, OSS, MongoDB, Redis, OAuth 등을 이용하여 관리서버, 캐시서버, 파일서버, 웹훅서버 등을 개발/운영중에 있습니다. 중국과 글로벌 두개의 cluster 를 분리하여 총 40개 이상의 서버에서 운영하고 있습니다. 1일 1억개 이상의 request 를 처리하고 있습니다. 서버는 Datadog 솔루션을 통해서 실시간 모든 장애에 대해 대응하고 있습니다. 한달 평균 약 5회 미만의 에러(network)로 안정적인 서비스 운영중입니다.
+  skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, MongoDB(sharding/replicas), Redis, Alibaba Cloud(AWS), DataDog
   
   
 - project: 제페토 렌더링 API 서버 ver 2.0
-  corp: 스노우 주식회사 / 네이버Z 주식회사
+  corp: 스노우 주식회사 / 네이버제트 주식회사
   duration: Jan, 2020 - Now
   contribution: 100
   position: Backend/Server, Architecting, Managing
