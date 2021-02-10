@@ -17,6 +17,7 @@
   contribution: 100
   position: Backend/Server, Architecting, Managing
   url: https://zepetoful.zepeto.io
+  cover: images/zepetofu.png
   description: 제페토 서비스의 모든 컨텐츠를 생성/서빙하는 플랫폼입니다. contentful 이라는 외부 솔루션을 그대로 모방하여 99.9% 구현하였으며, 자체적으로 필요한 API 들을 추가하는 방식으로 확장해 나가고 있습니다. 현재 제페토 메인, 제페토 월드, 제페토 크리에이터 등 모든 서비스의 사용하고 있습니다.
   role: 기존 제페토 서비스에서 사용하던 외부 플랫폼에서 이 플랫폼으로 모두 마이그레이션 완료되었습니다. Kubernetes, CDN, OSS, MongoDB, Redis, OAuth 등을 이용하여 관리서버, 캐시서버, 파일서버, 웹훅서버 등을 개발/운영중에 있습니다. 중국과 글로벌 두개의 cluster 를 분리하여 총 40개 이상의 서버에서 운영하고 있습니다. 1일 1억개 이상의 request 를 처리하고 있습니다. 서버는 Datadog 솔루션을 통해서 실시간 모든 장애에 대해 대응하고 있습니다. 한달 평균 약 5회 미만의 에러(network)로 안정적인 서비스 운영중입니다.
   skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, MongoDB(sharding/replicas), Redis, Alibaba Cloud(AWS), DataDog
