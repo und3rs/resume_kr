@@ -248,7 +248,7 @@
 - project: AllShare Play
   corp: 삼성전자 MSC 사업부
   duration: Oct, 2011 &mdash; Oct, 2012
-  contribution: 40
+  contribution: 15
   position: Desktop Native, Library Developing
   url: https://www.samsung.com/us/2012-allshare-play
   youtube: https://www.youtube.com/embed/P67r4uV1iC0
@@ -260,7 +260,7 @@
 - project: AllShare PC SW
   corp: 삼성전자 MSC 사업부
   duration: Dec, 2010 &mdash; Sep, 2011
-  contribution: 60
+  contribution: 30
   position: Library Developing
   url: https://www.google.com/search?q=allshare+pc+sw&newwindow=1&source=lnms&tbm=isch
   cover: images/AllShare.jpg
@@ -272,7 +272,7 @@
 - project: Kies PC software
   corp: 삼성전자 MSC 사업부
   duration: Jan, 2010 &mdash; Nov, 2010
-  contribution: 15
+  contribution: 5
   position: Desktop Native
   url: https://www.samsungsvc.co.kr/online/faqView.do?domainId=NODE0000033866&node_Id=NODE0000124882&faqId=KNOW0000002908
   description: Kies 는 DLNA를 포함하여 사진, 영상 편집, 휴대폰과 PC 간 파일 복사 등 휴대폰과 관련된 많은 기능을 제공하는 통합 프로그램입니다.
