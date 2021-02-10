@@ -6,7 +6,15 @@
   description: 현재 90% 이상 완성된 앱으로서 아직 미출시라 공개할 수는 없습니다. 디자인부터 시작하여 서버/앱 모두 1인 개발하고 있습니다. 주말이나 저녁 시간을 활용하여 꾸준히 개발중입니다.
   skills: Android, Google Firebase, Firebase functions, Firebase Storage, MongoDB(atlas), NodeJS(express), Kotlin, Android Jetpack
   
-  
+
+- project: 전압측정기
+  duration: Apr, 2020
+  cover: images/voltage.jpg
+  position: Hardware
+  description: 취미로 만들어본 전압측정기 입니다. 최종적으로 ATTiny84 MCU 와 8 digit led 로 만들었으며, 브레드보드에서 제작 후 PVC 보드로 옮겨보았습니다.
+  skills: Arduino, ATTiny84 MCU
+
+
 - project: 스마트카즈
   duration: Apr, 2014 &mdash; Sep, 2020
   url: https://github.com/und3rs/resume/blob/gh-pages/portfolio/2020/smartcaz/README.md
