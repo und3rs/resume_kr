@@ -9,7 +9,7 @@
 
 - project: 전압측정기
   duration: Apr, 2020
-  cover: images/voltage.jpg
+  cover: images/voltage.png
   position: Hardware
   description: 취미로 만들어본 전압측정기 입니다. 최종적으로 ATTiny84 MCU 와 8 digit led 로 만들었으며, 브레드보드에서 제작 후 PVC 보드로 옮겨보았습니다.
   skills: Arduino, ATTiny84 MCU
