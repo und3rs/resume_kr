@@ -33,6 +33,17 @@
   skills: Kubernetes, Docker, CentOS, Helm, NodeJS, Express, Redis, Alibaba Cloud(AWS), Swagger, DataDog
   
   
+- project: 제페토 스튜디오
+  corp: 네이버제트 주식회사
+  duration: Dec, 2019 - Feb, 2020
+  contribution: 5
+  position: Backend/Server, Architecting
+  url: https://studio.zepeto.me/kr
+  description: 제페토 서비스에서 사용자들이 아이템을 제작하고 판매할 수 있는 서비스 서버입니다. 기존에 개발한 서비스 인프라 플랫폼인 zepetoful 과 renderapi를 개발에 활용하였습니다. 초기 팀 빌딩 및 개발에 참여하였다가 개인적으로 다른 업무가 바빠져서 중도에 나오게 되었습니다.
+  role: admin server 개발(restful api)
+  skills: Docker, Spring Boot, CentOS, Helm, Swagger
+  
+  
 - project: 서비스 인프라 플랫폼(PaaS) 개발
   corp: 스노우 주식회사
   duration: Aug, 2019 - Jan, 2020
