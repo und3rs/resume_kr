@@ -1,5 +1,12 @@
 # Individual Projects
 
+- project: 미공개
+  duration: June, 2019 &mdash; Now
+  position: Mobile Native, Backend/Server
+  description: 현재 90% 이상 완성된 앱으로서 아직 미출시라 공개할 수는 없습니다. 디자인부터 시작하여 서버/앱 모두 1인 개발하고 있습니다. 주말이나 저녁 시간을 활용하여 꾸준히 개발중입니다.
+  skills: Android, Google Firebase, Firebase functions, Firebase Storage, MongoDB(atlas), NodeJS(express), Kotlin, Android Jetpack
+  
+  
 - project: 스마트카즈
   duration: Apr, 2014 &mdash; Sep, 2020
   url: https://github.com/und3rs/resume/blob/gh-pages/portfolio/2020/smartcaz/README.md
