@@ -6,7 +6,7 @@
   contribution: 80
   position: Architecting, Backend/Server, Managing, Operating
   description: 모든 제페토 AI 서비스 공용으로 사용 가능한 범용적 서비스 플랫폼 개발입니다. AI(ML) 개발팀에서 새로운(혹은 업데이트된) 서비스 ML 모델을 가지고 서비스를 할때, 해당 모델을 단순히 업로드 하는 것만으로도 실제 서비스를 할 수 있는 범용 플랫폼입니다.
-  role: kafka 를 중심으로 다수의 micro service 들이 kubernetes 위에서 유동적으로 동작합니다.
+  role: kafka 를 중심으로 다수의 micro service 들이 kubernetes 위에서 유적으로 동작합니다.
   skills: Kubernetes, Docker, CentOS, Spring Boot, Kafka, Alibaba Cloud(AWS), Swagger, DataDog
   
   
