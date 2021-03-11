@@ -1,10 +1,20 @@
 # Projects
 
+- project: AI Service Platform
+  corp: 네이버제트 주식회사
+  duration: Feb, 2021 - Now
+  contribution: 80
+  position: Architecting, Backend/Server, Managing, Operating
+  description: 모든 제페토 AI 서비스 공용으로 사용 가능한 범용적 서비스 플랫폼 개발입니다. AI(ML) 개발팀에서 새로운(혹은 업데이트된) 서비스 ML 모델을 가지고 서비스를 할때, 해당 모델을 단순히 업로드 하는 것만으로도 실제 서비스를 할 수 있는 범용 플랫폼입니다.
+  role: kafka 를 중심으로 다수의 micro service 들이 kubernetes 위에서 유동적으로 동작합니다.
+  skills: Kubernetes, Docker, CentOS, Spring Boot, Kafka, Alibaba Cloud(AWS), Swagger, DataDog
+  
+  
 - project: 제페토 렌더링 API 서버 ver 3.0
   corp: 네이버제트 주식회사
   duration: Dec, 2020 - Now
   contribution: 90
-  position: Backend/Server, Architecting, Managing
+  position: Backend/Server, Architecting, Managing, Operating
   url: https://render-swagger.zepeto.io/gateway
   description: 제페토 서비스에서 케릭터 이미지 파일을 생성하여 제공해주는 서비스 서버입니다. GPU 리소스 최소화와 기능확장에 용이하도록, 기존 ver 2.0 의 모든 아키텍처를 버리고 새로 개발되었습니다.
   role: api-gateway, service-api, core-api, extension-api, admin-api, renderer 등 총 8개의 micro service 로 구성되어 있으며, 각 api 별로 별도 cache 를 두어 GPU 사용을 최소화 할 수 있도록 구현되어 있습니다. 중국과 글로벌 Cluster 로 운영중이며, GPU/CPU 서버 도무 포함하여 약 60여대 규모 입니다. 1일 처리하고 있는 이미지는 각 클러스터별 4~5천만개. 도합 1억건 내외입니다. 장애률은 약 0.00003% 내외입니다. (링크된 페이지는 공개 가능한 일부 페이지입니다)
