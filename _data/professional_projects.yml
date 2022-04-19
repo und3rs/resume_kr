@@ -8,7 +8,7 @@
   position: Architecting, Backend/Server, Managing, Operating
   description: MLOps 프로젝트로서, 머신러닝 + 서빙을 제공합니다.
   role: 프론트엔드를 제외한 프로젝트 전체 개발, 배포 및 운영/관리.
-  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, Kotlin, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog, gRPC
+  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, Kotlin, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog, Tensorflow(keras), gRPC
 
 - project: AI Service Platform
   corp: 네이버제트 주식회사
