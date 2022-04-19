@@ -1,14 +1,14 @@
 # Projects
 
-- project: MLOPS
+- project: ZMLOps
   id: mlops
   corp: NAVERZ Corp.
   duration: Mar, 2021 - Now
   contribution: 100
   position: Architecting, Backend/Server, Managing, Operating
-  description: MLOPS 프로젝트로서, 머신러닝 + 서빙을 제공합니다.
-  role: 프로젝트 전체 개발, 배포 및 운영/관리. 추후 프론트엔드는 전담 팀에서 개발해서 붙일 예정.
-  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, Kotlin, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog
+  description: MLOps 프로젝트로서, 머신러닝 + 서빙을 제공합니다.
+  role: 프론트엔드를 제외한 프로젝트 전체 개발, 배포 및 운영/관리.
+  skills: Kubernetes, Docker, CentOS, Spring Boot, Webflux, Kotlin, GraphQL, Alibaba Cloud(AWS), Swagger, DataDog, gRPC
 
 - project: AI Service Platform
   corp: 네이버제트 주식회사
