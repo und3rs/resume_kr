@@ -1,7 +1,50 @@
 # Projects
 
+
+- project: Hyperfuncs
+  id: hyperfuncs
+  corp: NAVERZ Corp.
+  duration: May, 2023 - Now
+  contribution: 90
+  position: Project Manager, Project Owner, Planning, Architecting, Backend/Server
+  description: 범용 서비스를 만드는 서비스(?)
+  role: 팀 리더로서 프로젝트 메니저, 기획 및 Backend 개발 등 일체. 단, FE 개발은 제외
+  skill: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ
+  
+- project: SSO
+  id: sso
+  corp: NAVERZ Corp.
+  duration: May, 2023 - Now
+  contribution: 90
+  position: Project Manager, Project Owner, Architecting, Backend/Server
+  description: 팀내 수 많은 서비스의 로그인을 통합하기 위한 SSO 프로젝트
+  role: 팀 리더로서 프로젝트 메니저, 기획 및 Backend 개발 등 일체. 단, FE 개발은 제외
+  skill: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, OAuth2.0, OpenID Connect, SSO (내부 사정으로 Spring Security 없이 Spec 대로 직접 구현)
+
+- project: CNR
+  id: cnr
+  corp: NAVERZ Corp.
+  duration: Dec, 2022 - Now
+  contribution: 100
+  position: Project Manager, Project Owner, Architecting, Backend/Server
+  description: SaaS 형태의 범용 CMS 서비스
+  role: 팀 리더로서 프로젝트 메니저, 기획 및 Backend 개발 등 일체
+  skill: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis
+  
+- project: Render-it
+  id: renderit
+  cover: images/render-it.png
+  url: https://render-it.m2s.studio
+  corp: NAVERZ Corp.
+  duration: Dec, 2022 - Now
+  contribution: 20
+  position: Project Manager, Project Owner
+  description: Zepeto IP 를 이용한 Rendering 서비스. AWS Marketplace 에 등록되었습니다.(https://aws.amazon.com/marketplace/pp/prodview-55pagmuj3axei?sr=0-2&ref_=beagle&applicationId=AWSMPContessa)
+  role: 팀 리더로서 프로젝트 메니저, 기획 등의 총괄 업무
+
 - project: ZMLOps
   id: mlops
+  cover: images/zmlops.png
   corp: NAVERZ Corp.
   duration: Mar, 2021 - Now
   contribution: 100
