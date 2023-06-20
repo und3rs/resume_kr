@@ -198,7 +198,7 @@
           <h3 class="resume-item-title" itemprop="name" id="{{ project.id }}">{% if project.url %}<a href="{{ project.url }}" itemprop="url" target="_blank">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description" style="float:right;font-style:italic;color:#555555;font-size:1.0rem;">{{ project.duration }}</h4>
           <h4 class="resume-item-details" itemprop="description">{{ project.corp }}</h4>
-          <p class="resume-item-copy" itemprop="description"><b>workers: {{ project.workers }}%</b></p>
+          <p class="resume-item-copy" itemprop="description"><b>workers: {{ project.workers }}</b></p>
           {% if project.position %}<p class="resume-item-copy" itemprop="description"><b>{{ project.position }}</b></p>{% endif %}
           {% if project.cover %}<img src="{{ project.cover }}" style="width:100%"/>{% endif %}
           {% if project.youtube %}<iframe width="100%" height="480" src="{{ project.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{% endif %}
