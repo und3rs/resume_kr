@@ -37,7 +37,7 @@
   url: https://render-it.m2s.studio
   corp: NAVERZ Corp.
   duration: Dec, 2022 - Now
-  workers: Backend:1, Frontend:1, Design:1, Document:1, Planning:1
+  workers: Backend:1, Frontend:1, Design:1, Document:1, Planning:1, Manager:1(me)
   position: Project Manager(100%), Project Owner(100%), Planning(50%)
   description: Zepeto IP 를 이용한 Rendering 서비스. AWS Marketplace 에 등록되었습니다.(https://aws.amazon.com/marketplace/pp/prodview-55pagmuj3axei?sr=0-2&ref_=beagle&applicationId=AWSMPContessa)
   role: 팀 리더로서 프로젝트 메니저, 기획 등의 총괄 업무
@@ -184,7 +184,7 @@
 - project: PORTRA 카메라 앱
   corp: 스노우 주식회사
   duration: Feb, 2017 - Sep, 2017
-  workers: developer:3(me)
+  workers: developer:3(me), design:3
   position: Library Developing(20%)
   url: https://play.google.com/store/apps/details?id=com.playlist.portra
   youtube: https://www.youtube.com/embed/tPCdqD4pWVw
@@ -314,7 +314,7 @@
   url: https://witstudio.tistory.com/149
   duration: Nov, 2012 &mdash; Dec, 2012
   workers: Frontend:2(me), Design:1
-  position: Frontend(15%)
+  position: Frontend(10%)
   position: Desktop Native
   description: 코디네이터는 어도비 포토샵과 유사한 UI를 가진 그래픽 프로그램입니다. 하지만 앱 개발에 필요한 각종 UI 개발을 포토샵으로 하려면 많은 노력이 필요합니다. 그리고 수정 작업을 하는 것 역시 만만치 않습니다. 코디네이터는 이런 단점을 보완할 수 있는 디자이너용 프로그램입니다.
   role: 저는 UI 일부를 담당하였습니다. 그리고 범용성을 위해 javascript 로 포토샵 파일(.psd) parser 를 개발하였습니다.
@@ -324,8 +324,8 @@
 - project: AllShare Play
   corp: 삼성전자 MSC 사업부
   duration: Oct, 2011 &mdash; Oct, 2012
-  workers: Frontend:15(me), Backend:1(me), Design:3, Planning:3
-  position: Desktop Native(50%), Library Developing(100%)
+  workers: Frontend:2(me), Library:10, Server:10, Design:3, Planning:3, ETC:n
+  position: Desktop Native(50%), DLNA Stack Developing(100%)
   url: https://www.samsung.com/us/2012-allshare-play
   youtube: https://www.youtube.com/embed/P67r4uV1iC0
   description: AllShare 의 Cloud 버전으로, 같은 네트워크 망이 아닌 다른 망에서도 사용 가능한 AllShare 입니다.
@@ -336,8 +336,8 @@
 - project: AllShare PC SW
   corp: 삼성전자 MSC 사업부
   duration: Dec, 2010 &mdash; Sep, 2011
-  workers: Developer:30(me), ETC:n
-  position: Library Developing(10%)
+  workers: Frontend:2(me), Library:10, Server:10, Design:3, Planning:3, ETC:n
+  position: Desktop Native(50%), DLNA Stack Developing(100%)
   url: https://www.google.com/search?q=allshare+pc+sw&newwindow=1&source=lnms&tbm=isch
   cover: images/AllShare.jpg
   description: DLNA 의 DMC, DMS, DMP 기능을 모두 탑제한 PC 소프트웨어 입니다.
@@ -390,7 +390,7 @@
 - project: Ambient Wall
   corp: 삼성전자 종합기술원
   duration: Apr, 2009 &mdash; Jun, 2009
-  workers: Developer:3(me)
+  workers: Developer:3(me), Library:3, ETC:n
   position: Desktop Native(20%)
   description: 삼성 소프트웨어 멤버십을 통해 참여를 지원하게 되었습니다. Ambient Wall 은 2009년 삼성 기술전 출품용 프로젝트입니다. 거실의 한쪽 벽면 전체가 스크린으로 되어있고 이것을 통해 화상통화나 날씨정보, 지도 등을 볼 수 있습니다. 그리고 모든 인터렉션은 모션인식을 통해서 이루어집니다.
   role: 저는 모션정보를 받아서 지도를 제어하고 보여주는 부분을 담당하였습니다.
@@ -434,7 +434,7 @@
   corp: 한양대학교
   url: portfolio/2006/makeshop/makeshop.jpg
   duration: Jun, 2006 &mdash; Jly, 2006
-  workers: Developer:2(me)
+  workers: Developer:1(me), Planning:1
   position: Frontend(100%), Backend(100%)
   description: 인터넷 쇼핑몰 구축 업체인 메이크샵과 모교인 한양대학교와 산학협력으로 진행된 사업입니다.
   role: 두 명이서 메이크샵을 이용하여 쇼핑몰을 구축하였습니다.
