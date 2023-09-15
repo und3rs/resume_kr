@@ -4,6 +4,8 @@
 - project: Hyperfuncs
   id: hyperfuncs
   corp: NAVERZ Corp.
+  cover: images/hyperfuncs.png
+  url: https://hyperfuncs.m2s.team
   duration: May, 2023 - Now
   workers: "Backend:1(me), Frontend:2, Planning:1, Design: 1"
   position: Project Manager(100%), Project Owner(100%), Planning(70%), Architecting(100%), Backend/Server(99%)
@@ -14,7 +16,7 @@
 - project: SSO
   id: sso
   corp: NAVERZ Corp.
-  duration: May, 2023 - Now
+  duration: May, 2023 - Jun
   workers: "Backend:1(me), Frontend:1"
   position: Project Manager(100%), Project Owner(100%), Architecting(100%), Backend/Server(100%)
   description: 팀내 수 많은 서비스의 로그인을 통합하기 위한 SSO 프로젝트
