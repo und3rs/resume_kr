@@ -11,7 +11,7 @@
   description: AI(Deep-Learning) 개발, 대규모 서비스 서버개발, 클라이언트 개발, 안드로이드 개발, 리버스 엔지니어링, 보안, 네트워크 분산처리, PC 소프트웨어 개발, 웹 프론트엔드 및 백엔드 개발, 서비스 아키텍쳐 개발, 서비스 인프라 구축, 각종 라이브러리/스택 개발, 팀 메니지먼트, 서비스 서버 운영 기타 
 
 - skill: 서버 개발
-  description: 일 1억건 이상의 request 를 처리하는 서비스를 단독으로 개발 및 운영의 경험 다수. 월 최대 100대 이상의 서버 동시에 운영경험. DataDog, Prometheus, kafka 를 이용하여 실시간 365일 모니터링(slack) 및 운영경험. 빅데이터 처리를 위한 mongodb schema 및 분산 처리 시스템 설계, 개발, 운영. kubernetes 환경에서 서비스에 능숙. AWS 의 서비스에 능숙함.
+  description: 일 1억건 이상의 request 를 처리하는 서비스를 단독으로 개발 및 운영의 경험 다수. 월 최대 100대 이상의 서버 동시에 운영경험. DataDog, Prometheus, kafka 를 이용하여 실시간 365일 모니터링(slack) 및 운영경험. 빅데이터 처리를 위한 mongodb schema 및 분산 처리 시스템 설계, 개발, 운영. kubernetes 환경에서 서비스에 능숙. AlibabaCloud 의 서비스에 능숙함.
   
 - skill: 앱 개발
   description: Google firebase 환경에서의 서비스 개발/운영 경험. A to Z 로 앱 단독 개발, 출시, 운영 경험. Jetpack, Kotlin, Dagger(Hilt), ViewBinding, Room 등 최신 트렌드를 이용하여 개발.
