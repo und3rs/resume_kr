@@ -1,5 +1,17 @@
 # Projects
 
+- project: Weegloo
+  id: weegloo
+  corp: SNOW Corp.
+  #cover: images/hyperfuncs.png
+  #youtube: https://www.youtube.com/embed/bt6bF2gQOlk
+  #url: https://hyperfuncs.m2s.team
+  duration: Sep, 2025 - Now
+  workers: "Backend:1(me), Frontend:3, Design: 1"
+  position: Project Manager, Project Owner, Planning, Architecting, Backend/Server
+  description: *Embargo
+  role: 팀 리더로서 프로젝트 메니저, 기획 및 Backend 개발 등. 단, FE 개발은 제외
+  #skills: Kubernetes, Spring Boot, kotlin(coroutine), Webflux, MongoDB, Redis, Docker, RabbitMQ, InfluxDB(TSDB)
 
 - project: Hyperfuncs
   id: hyperfuncs
@@ -7,7 +19,7 @@
   cover: images/hyperfuncs.png
   youtube: https://www.youtube.com/embed/bt6bF2gQOlk
   url: https://hyperfuncs.m2s.team
-  duration: May, 2023 - Now
+  duration: May, 2023 - Dec, 2024
   workers: "Backend:1(me), Frontend:3, Planning:1, Design: 1"
   position: Project Manager(100%), Project Owner(100%), Planning(70%), Architecting(100%), Backend/Server(99%)
   description: Hyperfuncs 는 전문 서버 개발자 없이도 손쉽게 안정적인 API 서버를 구축할 수 있는 low-code 플랫폼입니다. 서버 및 네트워크 인프라를 구축할 필요 없이, 제공되는 가이드라인에 맞춰 코드를 작성하면됩니다. 시각화된 Component 들을 사용하여 쉽고 간편하게 생성 가능하며, 모든 플로우를 한눈에 확인 할 수 있습니다.
@@ -17,7 +29,7 @@
 - project: SSO
   id: sso
   corp: NAVERZ Corp.
-  duration: May, 2023 - Jun
+  duration: May, 2023 - Jun, 2024
   workers: "Backend:1(me), Frontend:1"
   position: Project Manager(100%), Project Owner(100%), Architecting(100%), Backend/Server(100%)
   description: 팀내 수 많은 서비스의 로그인을 통합하기 위한 SSO 프로젝트
@@ -27,7 +39,7 @@
 - project: CNR
   id: cnr
   corp: NAVERZ Corp.
-  duration: Dec, 2022 - Now
+  duration: Dec, 2022 - May, 2023
   workers: "Backend:1(me)"
   position: Project Manager(100%), Project Owner(100%), Architecting(100%), Backend/Server(100%)
   description: SaaS 형태의 범용 CMS 서비스
@@ -39,7 +51,7 @@
   cover: images/render-it.png
   url: https://render-it.m2s.studio
   corp: NAVERZ Corp.
-  duration: Dec, 2022 - Now
+  duration: Dec, 2022 - Dec, 2024
   workers: "Backend:1, Frontend:1, Design:1, Document:1, Planning:1, Manager:1(me)"
   position: Project Manager(100%), Project Owner(100%), Planning(50%)
   description: Zepeto IP 를 이용한 Rendering 서비스. AWS Marketplace 에 등록되었습니다.(https://aws.amazon.com/marketplace/pp/prodview-55pagmuj3axei?sr=0-2&ref_=beagle&applicationId=AWSMPContessa)
@@ -49,7 +61,7 @@
   id: mlops
   cover: images/zmlops.png
   corp: NAVERZ Corp.
-  duration: Mar, 2021 - Now
+  duration: Mar, 2021 - Dec, 2024
   workers: "Backend:1(me), Frontend:1, Design:1, Document:1"
   position: Project Manager(100%), Project Owner(100%), Planning(100%), Architecting(100%), Backend/Server(100%), Managing(60%), Operating(80%)
   description: MLOps 프로젝트로서, 머신러닝 + 서빙을 제공합니다.
@@ -58,7 +70,7 @@
 
 - project: AI Service Platform
   corp: 네이버제트 주식회사
-  duration: Feb, 2021 - Now
+  duration: Feb, 2021 - Dec, 2024
   workers: "Backend:1(me), Frontend:1"
   position: Project Manager(100%), Project Owner(100%), Planning(100%), Architecting(100%), Backend/Server(100%), Managing(100%), Operating(100%)
   description: 모든 제페토 AI 서비스 공용으로 사용 가능한 범용적 서비스 플랫폼 개발입니다. AI(ML) 개발팀에서 새로운(혹은 업데이트된) 서비스 ML 모델을 가지고 서비스를 할때, 해당 모델을 단순히 업로드 하는 것만으로도 실제 서비스를 할 수 있는 범용 플랫폼입니다.
@@ -68,7 +80,7 @@
   
 - project: 제페토 렌더링 API 서버 ver 3.0
   corp: 네이버제트 주식회사
-  duration: Dec, 2020 - Now
+  duration: Dec, 2020 - Dec, 2022
   workers: "Backend:2(me)"
   position: Project Manager(100%), Project Owner(100%), Planning(90%), Architecting(90%), Backend/Server(30%), Managing(30%), Operating(30%)
   url: https://render-swagger.zepeto.io/gateway
@@ -79,7 +91,7 @@
 
 - project: 서비스 플랫폼 개발확장 및 유지보수(PaaS)
   corp: 스노우 주식회사 / 네이버제트 주식회사
-  duration: Jan, 2020 - Now
+  duration: Jan, 2020 - Dec, 2025
   workers: "Backend:3(me), Frontend(1)"
   position: Project Manager(100%), Project Owner(100%), Planning(100%), Architecting(100%), Backend/Server(70%), Managing(100%), Operating(100%)
   url: https://zepetoful.zepeto.io
