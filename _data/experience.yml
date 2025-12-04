@@ -1,9 +1,17 @@
 # Jobs
 
+- company: 스노우 주식회사
+  ci: ./corp/snow.png
+  url: https://snowcorp.com
+  position: Team Lead
+  duration:  Sep, 2025  &mdash; Now
+  summary: 제페토가 아닌 신규 서비스를 개발하고자 네이버Z의 모회사로 법인을 이동하였습니다.
+
+  
 - company: 네이버Z 
   ci: ./corp/naverz.jpg
   position: Team Lead
-  duration:  May, 2020  &mdash; Now
+  duration:  May, 2020  &mdash; Aug, 2025
   summary: 제페토팀이 SNOW 로부터 <a href="https://www.sedaily.com/NewsVIew/1Z2MCCEA9A" target="_blank">분사</a>하여 재직하게 되었습니다.
   
   
