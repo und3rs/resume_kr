@@ -3,7 +3,7 @@
 - project: Weegloo
   id: weegloo
   corp: SNOW Corp.
-  youtube: https://www.youtube.com/watch?v=yibAv14PZuc
+  youtube: https://www.youtube.com/embed/yibAv14PZuc
   url: https://weegloo.com
   duration: Oct, 2025 - Now
   workers: "Backend: 2, Frontend: 1"
